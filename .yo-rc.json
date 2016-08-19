@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Jeovany Lopez",
+        "email": "jeovalo.polo@gmail.com"
+      },
+      "libraryName": {
+        "original": "jeovalo-pago",
+        "camelized": "jeovaloPago",
+        "dasherized": "jeovalo-pago",
+        "slugified": "jeovalo-pago",
+        "parts": [
+          "jeovalo",
+          "pago"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/jeovalo-pago",
+      "libraryUnitTestDirectory": "test/unit/jeovalo-pago",
+      "libraryUnitE2eDirectory": "test/e2e/jeovalo-pago"
+    }
+  }
+}
